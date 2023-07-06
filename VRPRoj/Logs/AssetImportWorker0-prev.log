@@ -1,0 +1,292 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.2f1 (d74737c6db50) revision 14108471'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'de' Physical Memory: 32680 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/projects/VRProjekt/VirtualReality/VRPRoj
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51015
+Successfully changed project path to: E:/projects/VRProjekt/VirtualReality/VRPRoj
+E:/projects/VRProjekt/VirtualReality/VRPRoj
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [13856] Host "[IP] 192.168.178.21 [Port] 0 [Flags] 2 [Guid] 3704320240 [EditorId] 3704320240 [Version] 1048832 [Id] WindowsEditor(7,Revision-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [13856] Host "[IP] 192.168.178.21 [Port] 0 [Flags] 2 [Guid] 3704320240 [EditorId] 3704320240 [Version] 1048832 [Id] WindowsEditor(7,Revision-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 4.05 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.2f1 (d74737c6db50)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/projects/VRProjekt/VirtualReality/VRPRoj/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   NVIDIA
+    VRAM:     8008 MB
+    Driver:   31.0.15.3598
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56976
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004577 seconds.
+- Loaded All Assemblies, in  0.270 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.221 seconds
+Domain Reload Profiling: 490ms
+	BeginReloadAssembly (66ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (115ms)
+		LoadAssemblies (64ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (111ms)
+			TypeCache.Refresh (110ms)
+				TypeCache.ScanAssembly (101ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (221ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (171ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (117ms)
+			ProcessInitializeOnLoadMethodAttributes (39ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\projects\VRProjekt\VirtualReality\VRPRoj\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\projects\VRProjekt\VirtualReality\VRPRoj\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.549 seconds
+Refreshing native plugins compatible for Editor in 1.23 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.461 seconds
+Domain Reload Profiling: 1009ms
+	BeginReloadAssembly (100ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (17ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (372ms)
+		LoadAssemblies (175ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (243ms)
+			TypeCache.Refresh (228ms)
+				TypeCache.ScanAssembly (219ms)
+			ScanForSourceGeneratedMonoScriptInfo (12ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (461ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (337ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (262ms)
+			ProcessInitializeOnLoadMethodAttributes (15ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3259 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 53 unused Assets / (1.3 MB). Loaded Objects now: 3735.
+Memory consumption went from 142.4 MB to 141.1 MB.
+Total: 2.824600 ms (FindLiveObjects: 0.270100 ms CreateObjectMapping: 0.076800 ms MarkObjects: 2.179000 ms  DeleteObjects: 0.297900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 909617.655609 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(07a422d9fd8c0ff43920efd142ff419c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(07a422d9fd8c0ff43920efd142ff419c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ace03f5c4c26c5ea28a22822fbd80383') in 0.014169 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 50.980428 seconds.
+  path: Assets/TerrainData_2dc25c56-4681-4e5d-b46f-ceae71990928.asset
+  artifactKey: Guid(7ab1056f7ab75ac4c9bbaa4cb3bfe215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_2dc25c56-4681-4e5d-b46f-ceae71990928.asset using Guid(7ab1056f7ab75ac4c9bbaa4cb3bfe215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '563daeb8a92216e67d4cd4829610a632') in 0.004325 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.465786 seconds.
+  path: Assets/TerrainData_c29d6da6-0707-4bab-98b8-4b9b71700381.asset
+  artifactKey: Guid(a8ebbdb7179bdc1458b7682e6005abac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_c29d6da6-0707-4bab-98b8-4b9b71700381.asset using Guid(a8ebbdb7179bdc1458b7682e6005abac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f74e57d1d505a819e712ca02d93a5cf9') in 0.004431 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.319576 seconds.
+  path: Assets/TerrainData_4983db06-f855-4be4-9a46-a97d4f84a95d.asset
+  artifactKey: Guid(c1047f22f60764347a166f0290d49bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_4983db06-f855-4be4-9a46-a97d4f84a95d.asset using Guid(c1047f22f60764347a166f0290d49bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '512d43d2b6a8f350f8caa17ca18f201d') in 0.004253 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.047095 seconds.
+  path: Assets/TerrainData_d4a13f9d-a107-4c34-9b72-7aed4d6b5856.asset
+  artifactKey: Guid(12d1f3433d6df064ca4a02c3d4e8fa09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_d4a13f9d-a107-4c34-9b72-7aed4d6b5856.asset using Guid(12d1f3433d6df064ca4a02c3d4e8fa09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5cd8e75b52668c073865ac46f5ef294') in 0.004329 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.210140 seconds.
+  path: Assets/TerrainData_430b9533-79c9-4c01-ab91-b2d15c74383f.asset
+  artifactKey: Guid(14de38af99409644fa8639f3d3503156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_430b9533-79c9-4c01-ab91-b2d15c74383f.asset using Guid(14de38af99409644fa8639f3d3503156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10e4623f8c97fead5812a1583362f545') in 0.004176 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.214825 seconds.
+  path: Assets/TerrainData_7f9bafb5-149a-4755-a85a-27e6006cd2da.asset
+  artifactKey: Guid(774bbcbb683423a4e858faa4ca09b231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_7f9bafb5-149a-4755-a85a-27e6006cd2da.asset using Guid(774bbcbb683423a4e858faa4ca09b231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c0a2ad4f3d68bc8ffc14da3502dabc5') in 0.004656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.232378 seconds.
+  path: Assets/TerrainData_8ceda04b-f256-46a9-8bcd-76559c765080.asset
+  artifactKey: Guid(ec025a57adb784f4ea8e27d6af04f4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_8ceda04b-f256-46a9-8bcd-76559c765080.asset using Guid(ec025a57adb784f4ea8e27d6af04f4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9135d98e83bd91524b132ced1d22efb6') in 0.004689 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.278566 seconds.
+  path: Assets/TerrainData_4b07c77d-7749-4aca-a59a-659e765297d5.asset
+  artifactKey: Guid(e47b72c14b8c82b41ade63b214418f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_4b07c77d-7749-4aca-a59a-659e765297d5.asset using Guid(e47b72c14b8c82b41ade63b214418f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '830acbf105a32b3c20698d459820e9bc') in 0.004729 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 896.172771 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(07a422d9fd8c0ff43920efd142ff419c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(07a422d9fd8c0ff43920efd142ff419c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0188f2b0a0b9dd7ae06260fa0d0e4cb3') in 0.005754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/TerrainData_430b9533-79c9-4c01-ab91-b2d15c74383f.asset
+  artifactKey: Guid(14de38af99409644fa8639f3d3503156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_430b9533-79c9-4c01-ab91-b2d15c74383f.asset using Guid(14de38af99409644fa8639f3d3503156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892b0ab5c4a1951de8da65481f644b46') in 0.005912 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/TerrainData_8ceda04b-f256-46a9-8bcd-76559c765080.asset
+  artifactKey: Guid(ec025a57adb784f4ea8e27d6af04f4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_8ceda04b-f256-46a9-8bcd-76559c765080.asset using Guid(ec025a57adb784f4ea8e27d6af04f4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebe48f80c4e0201381f1e3242c012b75') in 0.005210 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/TerrainData_d4a13f9d-a107-4c34-9b72-7aed4d6b5856.asset
+  artifactKey: Guid(12d1f3433d6df064ca4a02c3d4e8fa09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_d4a13f9d-a107-4c34-9b72-7aed4d6b5856.asset using Guid(12d1f3433d6df064ca4a02c3d4e8fa09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf98d8df753e605a73a924836dba029e') in 0.005348 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/TerrainData_7f9bafb5-149a-4755-a85a-27e6006cd2da.asset
+  artifactKey: Guid(774bbcbb683423a4e858faa4ca09b231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_7f9bafb5-149a-4755-a85a-27e6006cd2da.asset using Guid(774bbcbb683423a4e858faa4ca09b231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1de1ee6b2bd03778770c46ad64a6877') in 0.005529 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: Der E/A-Vorgang wurde wegen eines Threadendes oder einer Anwendungsanforderung abgebrochen.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
