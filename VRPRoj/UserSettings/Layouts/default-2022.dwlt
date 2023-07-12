@@ -412,9 +412,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 34780000
-      m_LastClickedID: 30772
-      m_ExpandedIDs: 9468fcff14fbffff62780000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 12fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -833,9 +833,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 602.64276, y: -95.82605, z: 631.8153}
+    m_Target: {x: 255.9284, y: -85.461975, z: 659.1492}
     speed: 2
-    m_Value: {x: 602.64276, y: -95.82605, z: 631.8153}
+    m_Value: {x: 255.9284, y: -85.461975, z: 659.1492}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -881,13 +881,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.27306306, y: 0.045886956, z: -0.013040712, w: -0.96081525}
+    m_Target: {x: -0.19717802, y: 0.60660386, z: -0.15870817, w: -0.75363743}
     speed: 2
-    m_Value: {x: -0.2701787, y: 0.045925755, z: -0.012902958, w: -0.9616277}
+    m_Value: {x: -0.19580995, y: 0.60796994, z: -0.15809157, w: -0.75301933}
   m_Size:
-    m_Target: 773.62256
+    m_Target: 302.55716
     speed: 2
-    m_Value: 810.076
+    m_Value: 316.81378
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1006,9 +1006,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e62c0100
-    m_LastClickedID: 77030
-    m_ExpandedIDs: 00000000be780000c078000000ca9a3b
+    m_SelectedIDs: f0850000
+    m_LastClickedID: 34288
+    m_ExpandedIDs: 00000000668400006884000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1036,7 +1036,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000be780000c0780000
+    m_ExpandedIDs: 000000006684000068840000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1063,7 +1063,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000008820000d67b0000007e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
